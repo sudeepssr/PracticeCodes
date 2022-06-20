@@ -9,7 +9,7 @@ public class Tut01_print {
 			return;
 		}
 
-		System.out.println(count);
+		System.out.println("count :"+count);
 		count++;
 		fun(count, n);
 	}
